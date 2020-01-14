@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## 服务器推送技术
 
-You can use the [editor on GitHub](https://github.com/Lucky4C/c/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### 一、什么是服务器推送技术
+    推送技术是指通过客户端与服务器端建立长链接，客户端可以接收由服务器端不定时发送的消息。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 二、解决方案
+    1.Ajax短轮询
+    2.Ajax长轮询
+    3.WebSocket
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+[https://blog.csdn.net/qq_28822933/article/details/83713606](https://blog.csdn.net/qq_28822933/article/details/83713606 "原文链接")
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Lucky4C/c/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[原文链接](https://blog.csdn.net/qq_28822933/article/details/83713606)
